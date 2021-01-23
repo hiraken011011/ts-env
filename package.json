@@ -1,0 +1,27 @@
+{
+  "name": "ts-env",
+  "version": "1.0.0",
+  "description": "###",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --momde=production",
+    "start": "webpack-cli serve --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiraken011011/ts-env.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiraken011011/ts-env/issues"
+  },
+  "homepage": "https://github.com/hiraken011011/ts-env#readme",
+  "devDependencies": {
+    "ts-loader": "^8.0.14",
+    "typescript": "^4.1.3",
+    "webpack": "^5.15.0",
+    "webpack-cli": "^4.3.1",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
