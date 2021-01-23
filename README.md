@@ -1,6 +1,6 @@
 #ts-env
 
-- `npm init`
-- `npm install --save-dev typescript ts-loader webpack webpack-cli webpack-dev-server`
-- `npm install -g typescript`` `
-- `tsc --init`
+1.  `npm init`
+2.  `npm install --save-dev typescript ts-loader webpack webpack-cli webpack-dev-server`
+3.  `npm install -g typescript`` `
+4.  `tsc --init`
